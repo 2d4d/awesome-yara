@@ -65,7 +65,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [FireEye](https://github.com/fireeye/red_team_tool_countermeasures)
     - FireEye Red Team countermeasures detection 
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :eyes: :gem:
-    - Florian Roth's signature base is a frequently updated collection of IOCs and YARA rules that cover a wide range of threats. There are dozens of rules which are actively maintained. Watch the repository to see rules evolve over time to address false potives / negatives.
+    - Florian Roth's signature base is a frequently updated collection of IOCs and YARA rules that cover a wide range of threats. There are dozens of rules which are actively maintained. Watch the repository to see rules evolve over time to address false positives / negatives.
 * [Florian Roth's IDDQD Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
     - A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code. 
 * [f0wl yara_rules](https://github.com/f0wl/yara_rules)
@@ -115,7 +115,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
     - Triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes.
 * [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) :sparkles: :eyes:
-    - A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomeware, trojans, and viruses. 
+    - A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomware, trojans, and viruses. 
 * [Securitymagic's YARA Rules](https://github.com/securitymagic/yara)
     - YARA rules for a variety of threats.
 * [Sophos AI YaraML Rules](https://github.com/inv-ds-research/yaraml_rules)
@@ -137,7 +137,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [YAIDS](https://github.com/wrayjustin/yaids) :gem: :sparkles:
     - YAIDS is a Multi-Threaded Intrusion Detection System using Yara. YAIDS supports all valid Yara rules (including modules) and any PCAP compatible data stream (Network, USB, Bluetooth, etc.).
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
-    - Collection of file type identfiying rules.
+    - Collection of file type identifying rules.
 * [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
     - Rules to identify files containing juicy information like usernames, passwords etc.
 * [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) :eyes:
@@ -281,6 +281,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Web based manager for YARA rules.
 * [yaramod](https://github.com/avast/yaramod)
     - A library that provides parsing of YARA rules into AST and a C++ programming interface to build new YARA rulesets.
+* [yara multiproessing scanner](https://github.com/2d4d/yara-multiprocessing-scanner)
+    - Example implementation of a fast recursive file scanner with multiprocessing using yara-python. If you want to implement your own features, it might be a good starting point.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
     - YARA rule set coverage analyzer.
 * [yara-parser](https://github.com/Northern-Lights/yara-parser)
